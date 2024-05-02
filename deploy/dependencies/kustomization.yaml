@@ -38,7 +38,6 @@ resources:
 - admission-webhook/alertmanager-config-validating-webhook.yaml
 - admission-webhook/prometheus-rule-validating-webhook.yaml
 
-
 namespace: operators
 namePrefix: obo-
 commonLabels:
